@@ -1,0 +1,15 @@
+.banner{
+    padding: 140px 0px;
+    background: linear-gradient(rgba(0, 0, 0, 0.575),rgba(0, 0, 0, 0.575)),url(../../images/more/3.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.custombutton{
+    font-weight: 600;
+    padding: 8px;
+    background-color: #E3B577;
+    color: black;
+    font-weight: 600;
+    border: 1px solid transparent;
+}
